@@ -31,7 +31,8 @@
                android:layout_height="wrap_content"
                android:id="@+id/aqi_text"
                android:layout_gravity="center"
-               android:textSize="40sp"/>
+               android:textSize="40sp"
+               android:textColor="#FFD74444"/>
            <TextView
                android:layout_width="wrap_content"
                android:layout_height="wrap_content"
