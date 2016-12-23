@@ -31,6 +31,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/sport_text"
         android:layout_margin="15dp"
-        android:background="#fff"/>
+        android:textColor="#fff"/>
 
 </LinearLayout>
